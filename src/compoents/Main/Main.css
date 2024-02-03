@@ -1,0 +1,26 @@
+div .content{
+    width: 100%;
+    padding: 0px 100px;    
+}
+div main {
+    width: 80%;
+    float: left;
+    padding: 25px 0px;    
+}
+div aside{
+    width: 20%;
+    float: right;
+    padding : 20px 20px;
+    background: rgb(189, 231, 189);
+}
+div aside ul li {
+    list-style: none;
+    padding: 0px 0px 5px 15px;
+    font-size: 17px;
+}
+div main p {padding-left: 15px;}
+div main #p2 { padding: 10px 0px 10px 100px;}
+div main h2,h3,h4{ margin: 12px 0px; }
+div main ul { padding :8px 0px 8px 70px; }
+div main .header4 ol { padding :8px 0px 8px 50px; }
+div main .header3 ol { padding :8px 0px 8px 30px; }

@@ -1,0 +1,33 @@
+div.navbar {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 100px;    
+    background: #6bf293;       
+}
+div.navbar ul li {
+    display: inline-block;
+    list-style: none;
+    font-size: 20px;
+    padding-right: 25px;    
+}
+div.navbar ul li a {
+    color: #000;
+    font-weight: 550;
+    text-decoration: none;
+}
+div .navbar ul li a:hover{
+    font-size: 110%;
+    transition: 0.3s linear;
+    color: blue;
+}
+
+
+/* 
+div.navbar ul li   {
+    list-style: none;
+    text-decoration: NO;
+    color: #fff;
+    padding: 8px;
+    font-weight: 550;
+} */

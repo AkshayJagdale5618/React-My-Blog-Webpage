@@ -1,0 +1,38 @@
+.foot{
+    width: 100%;
+    height: auto;
+    background: #05571D;
+    display: flex;
+    padding: 20px;
+    padding-left: 100px;
+ 
+}
+.foot ul li  {
+    list-style: none;
+    color: #fff;
+}
+.foot ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+.foot p {
+    color: #fff;
+}
+.foot h2{
+    font-size: 22px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+.foot .links{
+    width: 33%;
+    float: left;
+}
+.foot .follow {
+    width: 33%;
+    float: left;
+}
+.copyright {
+        width: 34%;
+        float: right;
+        text-align: right;
+}
